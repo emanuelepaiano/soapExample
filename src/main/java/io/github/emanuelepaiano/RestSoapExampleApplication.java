@@ -1,4 +1,4 @@
-package io.github.emanuelepaiano.demo;
+package io.github.emanuelepaiano;
 
 
 
